@@ -40,6 +40,6 @@ The following GIF shows the web application's appearance and functionality:
 
 ## Notes
 
-- [The URL of the functional, deployed application.]()
+- [The URL of the functional, deployed application.](https://badrulborhanudin-note-taker-bff00ba219a6.herokuapp.com/)
 
 - [The URL of the GitHub repository, with a unique name and a README describing the project.](https://github.com/BadrulBorhanudin/note-taker)
