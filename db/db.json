@@ -1,18 +1,12 @@
 [
-  null,
-  {
-    "title": "Second Note",
-    "text": "Second Attempt",
-    "id": null
-  },
-  {
-    "title": "Note 1",
-    "text": "Test",
-    "id": "a185"
-  },
-  {
-    "title": "Tet",
-    "text": "test",
-    "id": "f46b"
-  }
+    {
+        "title": "Test 1",
+        "text": "Test",
+        "note_id": "13ae"
+    },
+    {
+        "title": "Test 2",
+        "text": "Test",
+        "note_id": "f070"
+    }
 ]
